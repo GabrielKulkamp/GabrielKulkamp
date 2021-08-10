@@ -25,4 +25,4 @@ ________________________________________________________________________________
 
  ![spfc-são-paulo](https://user-images.githubusercontent.com/88688472/128789566-6054b7e7-be90-4f45-a03a-35d3dcbd26f9.gif)
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielKulkamp/GabrielKulkamp/blob/output/github-contribution-grid-snake.svg)
